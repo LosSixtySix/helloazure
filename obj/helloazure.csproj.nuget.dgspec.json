@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure.csproj": {}
+    "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure\\helloazure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure.csproj": {
+    "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure\\helloazure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure.csproj",
+        "projectUniqueName": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure\\helloazure.csproj",
         "projectName": "helloazure",
-        "projectPath": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure.csproj",
+        "projectPath": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure\\helloazure.csproj",
         "packagesPath": "C:\\Users\\Lanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\obj\\",
+        "outputPath": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

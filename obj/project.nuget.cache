@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ifGIwo/VIB0=",
+  "dgSpecHash": "Ym4yENzXCns=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure.csproj",
+  "projectFilePath": "C:\\Users\\Lanu\\Desktop\\ClassesFall2026\\helloazure\\helloazure\\helloazure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lanu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
     "C:\\Users\\Lanu\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
